@@ -1,0 +1,1 @@
+The hope for observable differences between these two seeding mechanisms has <u>hinged on</u> the idea that "heavy" seeding would leave lower numbers of more massive seeds while Population III remnants would be more common but of lower mass
