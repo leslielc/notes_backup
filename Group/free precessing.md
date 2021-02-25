@@ -14,3 +14,5 @@ oblate I3>I1 进动和自传反着
 
 prolate I3<I1
 
+
+

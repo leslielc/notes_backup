@@ -1,4 +1,4 @@
-
+D_L为啥我的CE比ET好？？
 
 3. quantum noise为啥随x增长
 4. 观测到的glich是为啥？啥干扰？gravityspy

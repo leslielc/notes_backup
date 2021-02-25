@@ -1,3 +1,21 @@
+Binary pulsar:300 包括一个pulsar的
+
+19 DNS 
+
+一个D Pulsar S J0737-3039
+
+最短周期112min0.078day J1946+2052
+
+
+
+再短周期射电搜不到
+
+LISA可以找出短周期
+
+
+
+
+
 Tidal Force
 
 $L=L_{binary}  + L_{spin1} + L_{spin2}$
@@ -37,3 +55,6 @@ mass
 pulsar timing : WD-NS / DNS
 
 X-ray
+
+
+

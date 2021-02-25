@@ -9,3 +9,14 @@
 pip install --upgrade lalsuite pycbc --use-feature=2020-resolver
 
 环境： source active pycbc (env name )
+
+Useful Websites:
+
+https://www.youtube.com/watch?v=qYbyXy0VPNo
+
+PEP8 格式介绍 https://pep8.org/
+
+
+
+
+

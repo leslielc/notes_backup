@@ -1,3 +1,9 @@
+162.105.133.134
+
+sbatch - Submit a batch script to Slurm.
+
+1.单个运行没有问题，2.标明你要导出储存的具体数据，3. 多线程运行的参数空间
+
 收费标准：http://hpc.pku.edu.cn/guide_6.html
 
 指南：http://hpc.pku.edu.cn/_book/guide/slurm/slurm.html

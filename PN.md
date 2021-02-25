@@ -10,3 +10,19 @@ $\begin{aligned} \mathcal{F}_{\rm 3.5PN}(v)=& \frac{32}{5} \nu^{2} v^{10}\left[1
 
 ![Screen Shot 2020-08-25 at 8.05.39 PM](/Users/liuchang/Documents/Notes/note/Screen Shot 2020-08-25 at 8.05.39 PM.png)
 
+
+
+1306.3901 有spin的
+
+0810.5336 Arun
+
+1601.05588 Mishra
+
+![Screen Shot 2021-01-06 at 9.38.20 PM](/Users/liuchang/Documents/Notes/Screen Shot 2021-01-06 at 9.38.20 PM.png)
+
+where ε and α are either 1 or 0 to turn on or off spin corrections to the phase
+
+
+
+$\xi\,,\zeta$
+

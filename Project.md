@@ -1,29 +1,16 @@
-multi-waveband
+BNS
 
-LISA + CE + ET
++Tidal、Q
 
++TDI、轨道
 
++ decihertz的alert
 
-Catelog
++ecc
 
-
-
-+S1, S2
-
-Phenomenology
+**30、40的spin导数**
 
 
 
-Pycbc
-
-用时间检验引力
 
 
-
-GWTC天区图
-
-https://dcc.ligo.org/LIGO-P1800381/public
-
-参数估计
-
-https://dcc.ligo.org/LIGO-P1800370/public
