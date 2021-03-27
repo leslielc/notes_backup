@@ -1,3 +1,7 @@
+计算并和时间需要积分4.135 of 试图转化
+
+
+
 1310.8288
 
 ![1310.8288](/Users/liuchang/Documents/Notes/note/1310.8288.png)

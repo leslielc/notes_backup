@@ -1,6 +1,8 @@
+## **Census + Search:**
+
 Binary pulsar:300 包括一个pulsar的
 
-19 DNS 
+19 DNS radio发现的
 
 一个D Pulsar S J0737-3039
 
@@ -14,9 +16,25 @@ LISA可以找出短周期
 
 
 
+#### 关于population：1910.13436
+
+从Population：
+
+Current population synthesis models predict a double neutron star (DNS) merger rate within the Milky Way of  20-40 /Myr
+
+从Pulsar
+
+Using 17 DNSs in the Milky Way field,  42/Myr
+
+从GW的角度
+
+ DNS merger rate of 210/Myr derived LIGO Scientic Collaboration et al. 2018
 
 
-Tidal Force
+
+
+
+## Tidal Force
 
 $L=L_{binary}  + L_{spin1} + L_{spin2}$
 
