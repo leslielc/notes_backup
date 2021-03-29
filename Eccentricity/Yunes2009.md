@@ -1,4 +1,4 @@
-关于pattern func见multi报告里我的备注
+关于pattern func见multi报告pdf里我的备注
 
 Q: 第二个峰低
 

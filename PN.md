@@ -26,3 +26,9 @@ where ε and α are either 1 or 0 to turn on or off spin corrections to the phas
 
 $\xi\,,\zeta$
 
+
+
+邵老师文章里的3.5PN
+
+https://arxiv.org/pdf/1704.07561.pdf
+
