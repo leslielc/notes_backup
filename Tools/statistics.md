@@ -6,3 +6,6 @@ x的分布用用很多高斯加在一起去拟合，每个用拟合$N(\mu,\sigma
 
 
 
+数值求导 finite difference
+
+https://web.media.mit.edu/~crtaylor/calculator.html

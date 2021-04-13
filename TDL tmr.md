@@ -29,7 +29,7 @@ condition number https://arxiv.org/pdf/gr-qc/0703086.pdf
 
 
 
-把LISA和天琴时域频域都写了
+
 
 Effacement Damour 1987 
 

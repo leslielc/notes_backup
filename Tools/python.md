@@ -6,6 +6,8 @@
 
 关于宇宙学在astropy.cosmos里，see Muxin那个rate generator里
 
+还有给yifan的waveform里
+
 pip install --upgrade lalsuite pycbc --use-feature=2020-resolver
 
 环境： source active pycbc (env name )
@@ -16,7 +18,7 @@ https://www.youtube.com/watch?v=qYbyXy0VPNo
 
 PEP8 格式介绍 https://pep8.org/
 
-
+关于反解在muxin和我的D_l和我原来的宇宙学里
 
 
 
