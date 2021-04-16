@@ -40,6 +40,8 @@ $\begin{equation*} P(r, \vec{n}_i) dr = \rho_i \frac{\hat{N}_i}{\sqrt{2\pi}\hat{
 
 pip install numpy=1.2.3
 
+pip install --upgrade lalsuite pycbc
+
 #### Conda install 的官网
 
 
