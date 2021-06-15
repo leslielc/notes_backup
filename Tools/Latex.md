@@ -1,3 +1,7 @@
+版本比较https://www.overleaf.com/learn/latex/Articles/Using_Latexdiff_For_Marking_Changes_To_Tex_Documents
+
+
+
 1.bibliography 在引用里的两种方法
 
 [1]: https://tex.stackexchange.com/questions/301911/having-problems-in-adding-bibliography-to-a-report-class-in-texmaker	"two kind of bibli"
