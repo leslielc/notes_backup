@@ -38,7 +38,7 @@ Using 17 DNSs in the Milky Way field,  42/Myr
 
 $L=L_{binary}  + L_{spin1} + L_{spin2}$
 
-
+$a$
 
 
 

@@ -1,4 +1,20 @@
-162.105.133.134
+# 超算
+
+### Terminal连
+
+ssh 1801110215@162.105.133.134
+
+
+
+### 登录口运行
+
+module load anaconda/3.7.1
+
+source activate pycbc_env
+
+
+
+
 
 sbatch - Submit a batch script to Slurm.
 
@@ -76,9 +92,11 @@ squeue -u 1801110215
 
 scp 1801110215@162.105.133.134:~/multi/data.hdf5 .
 
+以下scp粘到本地还是远程忘记了
 
+scp -r ./Project 1801110215@162.105.133.134:~
 
-网页版
+### 网页版
 
 wpn.pku.edu.cn
 

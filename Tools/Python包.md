@@ -6,30 +6,6 @@ https://book.douban.com/subject/25779298/
 
 
 
-# 超算
-
-ssh 1801110215@162.105.133.134
-
-module load anaconda/3.7.1
-
-
-
-conda create -n myenv python=3.7
-
-scp
-
-scp -r ./Project 1801110215@162.105.133.134:~
-
-sbatch
-
-
-
-
-
-$\begin{equation*} P(r, \vec{n}_i) dr = \rho_i \frac{\hat{N}_i}{\sqrt{2\pi}\hat{\sigma}_i} \text{exp} \left[-\frac{(r-\hat{\mu}_i)^2}{2\hat{\sigma}_i^2} \right] r^2 dr \end{equation*}$
-
-
-
 # 安装
 
 Pip list所有包
@@ -43,6 +19,10 @@ Pip list所有包
 pip install numpy=1.2.3
 
 pip install --upgrade lalsuite pycbc
+
+LALSimInspiral.h里有每个波形的说明
+
+
 
 #### Conda install 的官网
 
@@ -67,6 +47,10 @@ phi从中间往左
 https://dcc.ligo.org/public/0157/P1800381/006/plot_GWTC-1_skymaps.py
 
 https://dcc.ligo.org/LIGO-P1800381/public
+
+skymap https://github.com/kadrlica/skymap/tree/master/tutorial
+
+healpy https://healpy.readthedocs.io/en/latest/tutorial.html   
 
 
 

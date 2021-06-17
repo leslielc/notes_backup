@@ -41,9 +41,7 @@ Gravitation 300 years
 
 
 
-skymap https://github.com/kadrlica/skymap/tree/master/tutorial
 
-healpy https://healpy.readthedocs.io/en/latest/tutorial.html   
 
 
 
