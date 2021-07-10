@@ -104,3 +104,41 @@ ssh
 
 学号@162.105.133.134
 
+
+
+
+
+
+
+
+
+
+
+## Others
+
+https://www.cloudam.cn/help/docs/cloudE18
+
+```sh
+#SBATCH -o test.out               # 屏幕上的输出文件重定向到 test.out 可以的！
+```
+
+tail -f slurm-xxx.out 实时查看日志
+
+
+
+– Priority：作业所需的分区存在高等级作业或预留
+
+– Reservation：作业等待其预留的资源可用。
+– Resources：作业等待其所需的资源可用。
+
+
+
+查看历史事件：
+
+sacct -u 1801110215 -S 2021-06-01 -E now --format=jobid,partition,jobname,user,nnodes,nodelist,start,end,elapsed,state
+
+
+
+## 关于multiprocessing
+
+见我NStidal的hpc文件里的jupyter
